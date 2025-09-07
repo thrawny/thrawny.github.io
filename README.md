@@ -70,4 +70,5 @@ This project uses Git hooks to automatically manage dates:
 
 ## 📄 License
 
-MIT
+- **Code & Theme**: [MIT License](./LICENSE)
+- **Blog Content**: [CC BY 4.0](./LICENSE-CONTENT)
