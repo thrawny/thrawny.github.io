@@ -1,7 +1,7 @@
 ---
 author: Test Author
 pubDatetime: 2025-09-07T13:05:47Z
-modDatetime: 
+modDatetime: 2025-09-07T13:06:15Z
 title: Testing Git Hooks for Auto Dating
 featured: false
 draft: false
@@ -29,3 +29,7 @@ When we commit this file, the pre-commit hook should:
 - Files with `draft: first` get converted to `draft: false` with cleared `modDatetime`
 
 Let's see if it works!
+
+## Update Test
+
+This line was added to test the modDatetime update functionality.
