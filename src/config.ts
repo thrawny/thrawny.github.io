@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true, // Enable when you set up your GitHub repo
     text: "Edit page",
-    url: "https://github.com/thrawny/personal-website/edit/main/",
+    url: "https://github.com/thrawny/thrawny.github.io/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
