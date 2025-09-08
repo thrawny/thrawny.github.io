@@ -1,28 +1,8 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About me"
 ---
 
-# About Me
+Hello. My name is Jonas and this is my personal website that I use to write down my thoughts about software development mostly, but maybe some other stuff will sneak in once in a while.
 
-Welcome to my personal website! This is where I share my thoughts, projects, and experiences.
-
-## Background
-
-[Add your background information here - education, career path, etc.]
-
-## What I Do
-
-[Describe your current work, interests, and areas of expertise]
-
-## Interests
-
-[List your professional and personal interests]
-
-## Contact
-
-Feel free to reach out to me through any of the social links in the footer, or send me an email directly.
-
----
-
-_This site is built with [Astro](https://astro.build/) and uses a customized version of the AstroPaper theme._
+I have been working as a Software Engineer or similar for more than 10 years with fairly broad interests like programming languages, databases, cloud and kubernetes.

@@ -1,9 +1,9 @@
 export const SITE = {
   website: "https://yourdomain.com/", // replace this with your deployed domain
-  author: "Your Name",
+  author: "Jonas Lergell",
   profile: "https://yourdomain.com/",
   desc: "Personal website and blog",
-  title: "Your Name",
+  title: "thrawny.github.io",
   ogImage: "og-image.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
