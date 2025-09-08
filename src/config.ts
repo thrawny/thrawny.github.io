@@ -12,7 +12,7 @@ export const SITE = {
   showArchives: true,
   showBackButton: true, // show back button in post detail
   editPost: {
-    enabled: true, // Enable when you set up your GitHub repo
+    enabled: false, // Enable when you set up your GitHub repo
     text: "Edit page",
     url: "https://github.com/thrawny/thrawny.github.io/edit/main/",
   },
