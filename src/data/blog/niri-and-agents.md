@@ -3,7 +3,7 @@ title: How I work with Niri and coding agents
 pubDatetime: 2026-03-25T11:14:01Z
 modDatetime:
 featured: true
-draft: true
+draft: false
 tags: ["agents", "linux", "niri", "nix"]
 description: My recent adventures with Niri, NixOS and coding agents
 ---
