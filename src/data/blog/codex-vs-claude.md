@@ -4,6 +4,7 @@ pubDatetime: 2025-09-28T08:33:18Z
 modDatetime: 2025-09-28T08:33:33Z
 featured: true
 draft: false
+tags: ["agents", "testing"]
 description: Some thoughts about using TDD with claude code.
 ---
 

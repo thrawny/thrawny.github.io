@@ -4,6 +4,7 @@ pubDatetime: 2026-03-25T11:14:01Z
 modDatetime:
 featured: true
 draft: true
+tags: ["agents", "linux", "niri", "nix"]
 description: My recent adventures with Niri, NixOS and coding agents
 ---
 

@@ -4,6 +4,7 @@ pubDatetime: 2025-09-08T12:54:56Z
 modDatetime:
 featured: true
 draft: false
+tags: ["meta", "agents"]
 description: Some thoughts when creating the website and a quick retrospective on the last year.
 ---
 

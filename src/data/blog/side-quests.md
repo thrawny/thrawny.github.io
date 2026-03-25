@@ -4,6 +4,7 @@ pubDatetime: 2025-09-13T11:03:09Z
 modDatetime:
 featured: true
 draft: false
+tags: ["agents", "productivity"]
 description: Side questing with agentic coding tools.
 ---
 
