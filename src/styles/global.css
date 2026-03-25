@@ -67,3 +67,11 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
+
+/* medium-zoom: subtle scale on hover to hint clickability */
+#article img:not(.medium-zoom-image--opened) {
+  transition: transform 0.2s ease;
+}
+#article img:not(.medium-zoom-image--opened):hover {
+  transform: scale(1.02);
+}
